@@ -10,7 +10,7 @@
 - Intermediate Web Developer 💻
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/22ee10015ashutoshkrsingh/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asharsi/) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27079135) 
 [![](https://visitcount.itsvg.in/api?id=AsharSi&icon=0&color=8)](https://visitcount.itsvg.in)
 
