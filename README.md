@@ -5,7 +5,6 @@
 
 - Student by Day 🌅 , Developer by Night 🌃
 - Learning Something New Everyday ✍️
-- Currently building wiZe(MyLamp AI) 🔍
 - Learning Blockchain 🔥
 - Intermediate Web Developer 💻
 
