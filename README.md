@@ -19,7 +19,7 @@
 ```javascript
 const asharsi = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "C/C++"],
+    code: ["TypeScript/JavaScript", "Python", "C/C++"],
     askMeAbout: ["web dev", "blockchain", "software development"],
     technologies: {
         frontEnd: {
